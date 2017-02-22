@@ -1,13 +1,13 @@
 {
   "name": "eslint-config-aftereffects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint configuration for After Effects scripting",
   "main": "index.js",
   "author": "Rune Gangsø",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "git://github.com/runegan/eslint-config-aftereffects.git"
   },
   "keywords": [
     "eslintconfig",
