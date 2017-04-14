@@ -59,6 +59,7 @@ module.exports = {
 		FastPreviewType: false,
 		FeetFramesFilmType: false,
 		FieldSeparationType: false,
+		FrameBlendingType: false,
 		FramesCountType: false,
 		gAECommandLineRenderer: false,
 		garbageCollect: false,
