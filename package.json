@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-aftereffects",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint configuration for After Effects scripting",
   "main": "index.js",
   "author": "Rune Gangsø",
