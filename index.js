@@ -64,7 +64,7 @@ module.exports = {
 		gAECommandLineRenderer: false,
 		garbageCollect: false,
 		generateRandomNumber: false,
-		GetSettingsFomrat: false,
+		GetSettingsFormat: false,
 		GpuAccelType: false,
 		illustrator: false,
 		ImportAsType: false,
