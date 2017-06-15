@@ -127,6 +127,7 @@ module.exports = {
 		PropertyGroup: false,
 		MaskPropertyGroup: false,
 		RenderQueue: false,
+		ResolveType: false,
 		RQItemCollection: false,
 		RenderQueueItem: false,
 		OMCollection: false,
